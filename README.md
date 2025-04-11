@@ -1,4 +1,4 @@
-# Yoo-Seung_Tae
+# Yoo-Seung_Tae - 경력, 논문, 프로젝트, 기술스택, 이메일, 자격증 반영
 
  <div class="header">
       <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="SeungTae's GitHub">

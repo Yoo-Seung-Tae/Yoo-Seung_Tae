@@ -32,26 +32,50 @@
 3. [PLC & HMI 기반 ABC 분석 자동 분류 시스템](https://github.com/ProjectPLC/PLC_ABC_Logistics)  
 4. [C++ 기반 아두이노를 활용한 객체 인식 및 물건 자동 분류 로봇팔](https://github.com/SF7-project-4/C_Plus2_Project)
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack | 기술 스택
 
-### 💻 Languages
+---
+
+### 💻 Programming Languages
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PLC Ladder](https://img.shields.io/badge/PLC_Ladder-FFDD00?style=for-the-badge&logo=siemens&logoColor=black)
 
+</div>
+
+---
+
 ### 📚 Libraries & Frameworks
+<div align="center">
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🛠 Tools & IDE
+</div>
+
+---
+
+### 🛠 Tools & IDEs
+<div align="center">
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### 🗄 Database
+</div>
+
+---
+
+### 🗄 Databases
+<div align="center">
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>

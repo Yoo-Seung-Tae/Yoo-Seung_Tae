@@ -32,7 +32,7 @@
 
 - 🧠 빅데이터분석기사  
 - 🧠 DSAC(데이터사이언티스트능력인증자격) 2급 (전문가)  
-- ⚙️ 전자기기기능사  
+- ⚙️ 6시그마경영전문가 BB과정
 
 ---
 
@@ -64,6 +64,8 @@
 3. 📦 [PLC & HMI 기반 ABC 분석 자동 분류 시스템](https://github.com/ProjectPLC/PLC_ABC_Logistics)  
 
 4. 🤖 [C++ 기반 아두이노를 활용한 객체 인식 및 물건 자동 분류 로봇팔](https://github.com/SF7-project-4/C_Plus2_Project)  
+
+5. 🔍 [스마트 팩토리 눈과 손 : Web-based 실시간 모니터링 & Robot Arm Control](https://github.com/KDT-SF-final-project-3/sf_project)
 
 ---
 
